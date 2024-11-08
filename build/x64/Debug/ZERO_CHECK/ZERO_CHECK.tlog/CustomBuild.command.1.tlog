@@ -1,0 +1,10 @@
+^C:\USERS\SAGNIK SEN\DESKTOP\DERIBITAPI\BUILD\CMAKEFILES\68A0608CBF66E998ECEEF254CBA14737\GENERATE.STAMP.RULE
+setlocal
+"C:\Users\Sagnik Sen\Downloads\cmake-3.31.0-rc2-windows-x86_64\cmake-3.31.0-rc2-windows-x86_64\bin\cmake.exe" "-SC:/Users/Sagnik Sen/Desktop/DeribitAPI" "-BC:/Users/Sagnik Sen/Desktop/DeribitAPI/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Sagnik Sen/Desktop/DeribitAPI/build/DeribitAPI.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
