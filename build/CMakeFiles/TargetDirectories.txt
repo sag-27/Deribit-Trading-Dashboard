@@ -1,0 +1,3 @@
+C:/Users/Sagnik Sen/Desktop/DeribitAPI/build/CMakeFiles/DeribitAPI.dir
+C:/Users/Sagnik Sen/Desktop/DeribitAPI/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Sagnik Sen/Desktop/DeribitAPI/build/CMakeFiles/ZERO_CHECK.dir
