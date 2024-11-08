@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sagnik Sen\Desktop\DeribitAPI\build\CMakeFiles\68a0608cbf66e998eceef254cba14737\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F61B8629-1D64-3743-AA33-7C1BC66C3584}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
